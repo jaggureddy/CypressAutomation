@@ -1,0 +1,7 @@
+npx cypress open
+npm run cy:open
+fixtures - external resources for data
+Integration - test scripts
+Plugins - extensions
+Support - index.js runs before every test script, create own custom commands
+ 

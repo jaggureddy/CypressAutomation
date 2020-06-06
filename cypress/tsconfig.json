@@ -1,0 +1,14 @@
+{
+    "include":[
+        "./node_modules/cypress",
+        "./node_modules/cypress-xpath",
+        "**/*.*"
+    ],
+    "compilerOptions": {
+        "allowJs":true,
+        "baseUrl": "../node_modules",
+        "types":[
+            "cypress"
+        ]
+    }
+}
